@@ -1,0 +1,33 @@
+body{
+    font-size: 20px;
+}
+
+.index {
+     background-color:darkslateblue;
+     
+}
+.about{
+    background-color: blueviolet;
+}
+.contact{
+    background-color: aquamarine;
+}
+.info{
+    background-color: darkcyan;
+    font-size: 20px;
+}
+.index a{
+    color:red; 
+    
+}
+ul {
+    display: flex; 
+
+}
+ul li{
+    margin:10px;
+    border: 5px solid black;
+    border-radius: 25px;
+    display: flex;
+    padding: 20px;
+}
